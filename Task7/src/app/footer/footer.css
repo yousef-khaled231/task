@@ -1,0 +1,20 @@
+.footer-title {
+  background-color: #f1c40f;
+  color: white;
+  text-align: center;
+  padding: 15px 10px;
+}
+
+.footer-title h2 {
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+.footer-text {
+  text-align: center;
+  padding: 15px 20px;
+  color: #555;
+  font-size: 0.95rem;
+  margin: 0;
+}

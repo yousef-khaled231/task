@@ -1,0 +1,12 @@
+.contact-banner {
+  background-color: #d36e26;
+  color: white;
+  text-align: center;
+  padding: 25px 10px;
+}
+
+.contact-banner h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: normal;
+}
